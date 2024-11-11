@@ -12,7 +12,7 @@ function HomeTitle() {
 
       {/* Content Section */}
       <div className="relative flex flex-col items-center justify-center h-full text-center px-4 md:px-10">
-        <h1 className="text-xl md:text-2xl lg:text-4xl font-extrabold text-yellow-400 drop-shadow-lg mb-4">
+        <h1 className="text-xl md:text-2xl lg:text-5xl font-extrabold text-yellow-400 drop-shadow-lg mb-4">
           QTO Solutions
         </h1>
         <p className="text-sm md:text-lg lg:text-2xl text-gray-200 max-w-3xl mb-8 drop-shadow-lg">
