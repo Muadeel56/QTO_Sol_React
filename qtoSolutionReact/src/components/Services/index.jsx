@@ -28,7 +28,7 @@ function Services() {
         {/* Header Section */}
         <div className="text-center mb-12">
           <h1 className="text-xl md:text-2xl lg:text-4xl font-extrabold text-gray-800 mb-4">Estimation Services We Offer</h1>
-          <p className="text-xs md:text-sm lg:text-lg text-justify text-gray-600 max-w-4xl mx-auto">
+          <p className="text-xs md:text-sm lg:text-lg text-justify text-gray-600 max-w-full mx-auto">
             No matter the size, scale, or complexity, QTO Solutions tackles every construction project with ease. We're experts in all CSI divisions, handling general contractor (GC) scopes, subcontractor scopes, and everything in between. Our all-inclusive approach ensures nothing falls through the cracks, delivering a seamless experience for your construction project.
           </p>
         </div>
